@@ -1,6 +1,5 @@
-Supermarket Management System (C)
-
-A complete supermarket management system written in C, featuring product management, customer & club member handling, shopping carts, file storage, sorting/searching, and optional compressed binary format.
+**Supermarket Management System (C)**
+**A complete supermarket management system written in C, featuring product management, customer & club member handling, shopping carts, file storage, sorting/searching, and optional compressed binary format.**
 
 **Features**
 
